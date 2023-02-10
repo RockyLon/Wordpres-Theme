@@ -1,0 +1,35 @@
+/*
+ Theme Name:   Powering the Web
+ Description:   A Guide to Building WordPress Sites with Bootstrap, PHP, and MySQL
+ Author:       Ismel padron
+ Author URI:   http://padron.studio
+ Version:      1.0.0
+*/
+
+ul li {
+    display: inline;
+    padding: 10px;
+
+  }
+  a{
+    text-decoration: none !important;
+
+  }
+  .menu-item a{
+    color: white;
+  }
+  .card img{
+    height: 250px!important;
+
+  }
+
+.comment-body{
+    background: rgb(235, 234, 234);
+    padding: 1rem;
+    border-radius: 5px;
+}
+#commentform{
+    background: rgb(235, 234, 234);
+    padding: 1rem;
+    border-radius: 5px;
+}
